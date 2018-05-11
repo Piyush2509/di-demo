@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * Created by piyush.b.kumar on May 11, 2018.
  */
 @Service
-@Profile("es")
 @Primary
+@Profile("es")
 public class PrimarySpanishGreetingService implements GreetingService {
 
 	@Override
