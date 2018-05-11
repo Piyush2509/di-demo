@@ -1,6 +1,3 @@
-/**
- * 
- */
 package guru.springframework.services;
 
 /**

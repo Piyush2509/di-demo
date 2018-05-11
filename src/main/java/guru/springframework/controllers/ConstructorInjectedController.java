@@ -1,6 +1,3 @@
-/**
- * 
- */
 package guru.springframework.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
