@@ -4,7 +4,7 @@
 package guru.springframework.services;
 
 /**
- * @author piyush.b.kumar
+ * Created by piyush.b.kumar on May 10, 2018.
  *
  */
 public interface GreetingService {
