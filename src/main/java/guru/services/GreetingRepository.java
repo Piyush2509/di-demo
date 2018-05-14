@@ -1,4 +1,4 @@
-package guru.springframework.services;
+package guru.services;
 
 /**
  * Created by piyush.b.kumar on May 11, 2018.
