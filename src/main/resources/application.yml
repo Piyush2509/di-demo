@@ -3,3 +3,10 @@ guru:
     username: JMS username
     password: JMS password
     url: JMS url
+    
+---
+spring:
+  profiles: de  
+guru:
+  jms:
+    username: JMS username in GERMAN
